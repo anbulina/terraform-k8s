@@ -1,4 +1,4 @@
-# DevOps Lab: Terraform + Kubernetes on AWS
+# DevOps : Terraform + Kubernetes on AWS
 
 This project provisions a complete AWS EKS cluster using Terraform, deploys a containerized Node.js app using Kubernetes manifests, and installs monitoring with Prometheus & Grafana via Helm.
 
